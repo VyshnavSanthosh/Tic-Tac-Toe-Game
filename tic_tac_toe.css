@@ -61,7 +61,8 @@ body {
    
 }
 .winnerContainer{
-    height: 170vmin;
+   margin-top: -20vmin;
+    height: 250vmin;
     color: #FAFFFD;
     display: flex;
     justify-content: center;
